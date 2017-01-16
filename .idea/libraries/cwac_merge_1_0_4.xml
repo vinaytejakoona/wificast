@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cwac-merge-1.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/cwac-merge-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

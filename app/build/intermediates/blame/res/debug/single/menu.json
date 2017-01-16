@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\file_chooser.xml",
+        "source": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\src\\main\\res\\menu\\file_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sender.xml",
+        "source": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\src\\main\\res\\menu\\sender.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\receiver.xml",
+        "source": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\src\\main\\res\\menu\\receiver.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sender_connection.xml",
+        "source": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\src\\main\\res\\menu\\sender_connection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

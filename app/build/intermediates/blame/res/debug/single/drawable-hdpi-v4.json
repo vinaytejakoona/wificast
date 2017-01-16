@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\customcheckbox_background.xml",
+        "source": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\src\\main\\res\\drawable-hdpi\\customcheckbox_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\customcheckbox.xml",
+        "source": "C:\\Users\\Koona\\Documents\\MTech\\AndroidStudioProjects\\Wificastapp\\app\\src\\main\\res\\drawable-hdpi\\customcheckbox.xml"
+    }
+]
